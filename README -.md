@@ -1,5 +1,5 @@
 # TABLEAU-DASHBOARD-HR-ANALYTICS
-🧑‍💼 HR Analytics Dashboard - Power BI Project Welcome to my first Power BI Dashboard project! This project focuses on HR Analytics,
+🧑‍💼 HR Analytics Dashboard -Tabealue Project  Welcome to my first Dashboard project! This project focuses on HR Analytics,
 I'm excited to share this HR Analytics Dashboard, a powerful tool that has transformed the way we understand our workforce. Developed under the guidance of Rakesh, this dashboard provides actionable insights that drive strategic HR decisions.
 Key Insights Revealed:
 
